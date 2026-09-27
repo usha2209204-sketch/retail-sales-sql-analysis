@@ -1,0 +1,101 @@
+customer_id,customer_name,city,state,segment
+1,Customer_001,Vizag,Andhra Pradesh,Consumer
+2,Customer_002,Kolkata,West Bengal,Home Office
+3,Customer_003,Delhi,Delhi,Consumer
+4,Customer_004,Bengaluru,Karnataka,Home Office
+5,Customer_005,Vizag,Andhra Pradesh,Corporate
+6,Customer_006,Delhi,Delhi,Consumer
+7,Customer_007,Mumbai,Maharashtra,Corporate
+8,Customer_008,Hyderabad,Telangana,Consumer
+9,Customer_009,Vizag,Andhra Pradesh,Consumer
+10,Customer_010,Pune,Maharashtra,Corporate
+11,Customer_011,Delhi,Delhi,Consumer
+12,Customer_012,Kolkata,West Bengal,Home Office
+13,Customer_013,Hyderabad,Telangana,Corporate
+14,Customer_014,Hyderabad,Telangana,Home Office
+15,Customer_015,Delhi,Delhi,Home Office
+16,Customer_016,Pune,Maharashtra,Home Office
+17,Customer_017,Mumbai,Maharashtra,Home Office
+18,Customer_018,Hyderabad,Telangana,Consumer
+19,Customer_019,Mumbai,Maharashtra,Corporate
+20,Customer_020,Hyderabad,Telangana,Consumer
+21,Customer_021,Hyderabad,Telangana,Corporate
+22,Customer_022,Delhi,Delhi,Corporate
+23,Customer_023,Pune,Maharashtra,Consumer
+24,Customer_024,Pune,Maharashtra,Corporate
+25,Customer_025,Mumbai,Maharashtra,Home Office
+26,Customer_026,Delhi,Delhi,Home Office
+27,Customer_027,Hyderabad,Telangana,Home Office
+28,Customer_028,Bengaluru,Karnataka,Home Office
+29,Customer_029,Mumbai,Maharashtra,Consumer
+30,Customer_030,Kolkata,West Bengal,Corporate
+31,Customer_031,Delhi,Delhi,Home Office
+32,Customer_032,Mumbai,Maharashtra,Home Office
+33,Customer_033,Pune,Maharashtra,Consumer
+34,Customer_034,Mumbai,Maharashtra,Consumer
+35,Customer_035,Pune,Maharashtra,Corporate
+36,Customer_036,Delhi,Delhi,Consumer
+37,Customer_037,Mumbai,Maharashtra,Home Office
+38,Customer_038,Pune,Maharashtra,Consumer
+39,Customer_039,Kolkata,West Bengal,Corporate
+40,Customer_040,Kolkata,West Bengal,Consumer
+41,Customer_041,Delhi,Delhi,Consumer
+42,Customer_042,Mumbai,Maharashtra,Home Office
+43,Customer_043,Delhi,Delhi,Home Office
+44,Customer_044,Vizag,Andhra Pradesh,Home Office
+45,Customer_045,Vizag,Andhra Pradesh,Corporate
+46,Customer_046,Mumbai,Maharashtra,Consumer
+47,Customer_047,Kolkata,West Bengal,Consumer
+48,Customer_048,Chennai,Tamil Nadu,Consumer
+49,Customer_049,Bengaluru,Karnataka,Home Office
+50,Customer_050,Bengaluru,Karnataka,Home Office
+51,Customer_051,Vizag,Andhra Pradesh,Home Office
+52,Customer_052,Hyderabad,Telangana,Corporate
+53,Customer_053,Vizag,Andhra Pradesh,Home Office
+54,Customer_054,Kolkata,West Bengal,Home Office
+55,Customer_055,Delhi,Delhi,Home Office
+56,Customer_056,Chennai,Tamil Nadu,Home Office
+57,Customer_057,Hyderabad,Telangana,Home Office
+58,Customer_058,Delhi,Delhi,Home Office
+59,Customer_059,Pune,Maharashtra,Consumer
+60,Customer_060,Delhi,Delhi,Corporate
+61,Customer_061,Bengaluru,Karnataka,Corporate
+62,Customer_062,Chennai,Tamil Nadu,Home Office
+63,Customer_063,Delhi,Delhi,Home Office
+64,Customer_064,Bengaluru,Karnataka,Home Office
+65,Customer_065,Hyderabad,Telangana,Home Office
+66,Customer_066,Delhi,Delhi,Home Office
+67,Customer_067,Mumbai,Maharashtra,Consumer
+68,Customer_068,Pune,Maharashtra,Consumer
+69,Customer_069,Chennai,Tamil Nadu,Home Office
+70,Customer_070,Pune,Maharashtra,Corporate
+71,Customer_071,Chennai,Tamil Nadu,Consumer
+72,Customer_072,Pune,Maharashtra,Corporate
+73,Customer_073,Mumbai,Maharashtra,Consumer
+74,Customer_074,Mumbai,Maharashtra,Home Office
+75,Customer_075,Hyderabad,Telangana,Consumer
+76,Customer_076,Kolkata,West Bengal,Consumer
+77,Customer_077,Bengaluru,Karnataka,Consumer
+78,Customer_078,Kolkata,West Bengal,Home Office
+79,Customer_079,Bengaluru,Karnataka,Corporate
+80,Customer_080,Vizag,Andhra Pradesh,Consumer
+81,Customer_081,Mumbai,Maharashtra,Home Office
+82,Customer_082,Delhi,Delhi,Corporate
+83,Customer_083,Pune,Maharashtra,Corporate
+84,Customer_084,Kolkata,West Bengal,Consumer
+85,Customer_085,Mumbai,Maharashtra,Consumer
+86,Customer_086,Hyderabad,Telangana,Corporate
+87,Customer_087,Chennai,Tamil Nadu,Home Office
+88,Customer_088,Mumbai,Maharashtra,Home Office
+89,Customer_089,Mumbai,Maharashtra,Consumer
+90,Customer_090,Hyderabad,Telangana,Home Office
+91,Customer_091,Chennai,Tamil Nadu,Consumer
+92,Customer_092,Hyderabad,Telangana,Consumer
+93,Customer_093,Pune,Maharashtra,Consumer
+94,Customer_094,Mumbai,Maharashtra,Corporate
+95,Customer_095,Kolkata,West Bengal,Consumer
+96,Customer_096,Bengaluru,Karnataka,Home Office
+97,Customer_097,Kolkata,West Bengal,Consumer
+98,Customer_098,Kolkata,West Bengal,Corporate
+99,Customer_099,Mumbai,Maharashtra,Consumer
+100,Customer_100,Hyderabad,Telangana,Home Office

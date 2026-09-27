@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,79.62
+2,Smartphone,Electronics,10.8
+3,Headphones,Electronics,38.8
+4,Monitor,Electronics,33.0
+5,Keyboard,Electronics,90.48
+6,Chair,Home,83.79
+7,Desk Lamp,Home,107.92
+8,Coffee Maker,Home,17.74
+9,Bedsheet,Home,55.26
+10,Storage Box,Home,11.34
+11,Notebook,Stationery,32.49
+12,Pen Set,Stationery,64.6
+13,Printer Paper,Stationery,10.97
+14,File Folder,Stationery,30.27
+15,Stapler,Stationery,80.79
